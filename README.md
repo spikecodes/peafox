@@ -73,3 +73,5 @@
 ## Credits
 
 - Many hardening enhancements were taken from [PrivacyTools.io](https://www.privacytools.io/browsers/#about_config) and [ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
+
+BTC: `bc1q72l5jtjcxlma8knwt80nwm5c9wccu45tt7y02g`
