@@ -44,6 +44,7 @@
 	- Referrer is only sent when full hostnames match.
 	- Referrer will only contain scheme, host and port.
 - Non-unicode domains are converted to Unicode to stop phishing
+- HTTPS-only mode is enabled so no need for HTTPS Everywhere
 
 #### Geolocation
 - Geolocation provider is set from Google to Mozilla.
